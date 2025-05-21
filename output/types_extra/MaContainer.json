@@ -1,0 +1,473 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "maCB_Spraycan_Green"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Spraycan_Red"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Spraycan_Blue"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Spraycan_Yellow"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Spraycan_Purple"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Spraycan_Camo"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_Blueprint"
+        },
+        "nominal": "0",
+        "lifetime": "10800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_map": "1",
+            "count_in_hoarder": "0",
+            "count_in_cargo": "0",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "maCB_AdminKeycard"
+        },
+        "lifetime": "60",
+        "flags": {
+          "$": {
+            "count_in_map": "1",
+            "count_in_hoarder": "0",
+            "count_in_cargo": "0",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "maCB_Keycard"
+        },
+        "lifetime": "10800",
+        "flags": {
+          "$": {
+            "count_in_map": "1",
+            "count_in_hoarder": "0",
+            "count_in_cargo": "0",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "maCB_Kit"
+        },
+        "lifetime": "10800",
+        "flags": {
+          "$": {
+            "count_in_map": "1",
+            "count_in_hoarder": "0",
+            "count_in_cargo": "0",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "maCB_Base"
+        },
+        "lifetime": "3888000",
+        "flags": {
+          "$": {
+            "count_in_map": "1",
+            "count_in_hoarder": "0",
+            "count_in_cargo": "0",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        }
+      }
+    ]
+  }
+}

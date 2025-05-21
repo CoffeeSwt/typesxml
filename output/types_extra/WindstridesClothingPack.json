@@ -1,0 +1,5078 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "Blue_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Latex_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Adidas_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Red_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Purple_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Fleece_Grey_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Latex_White_Leggings"
+        },
+        "nominal": "3",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "PMK_5A_Gas_Mask"
+        },
+        "nominal": "4",
+        "lifetime": "7200",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Red_Checkered"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Blue_Checkered"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Yellow_Checkered"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Brown"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Green"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_White"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Red"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_Black"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_BlackAndWhite"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Poncho_BlackAndWhite2"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Fingerless_Gloves"
+        },
+        "nominal": "4",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Fingerless_Gloves_Brown"
+        },
+        "nominal": "4",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Fingerless_Gloves_Wool"
+        },
+        "nominal": "4",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Fingerless_Gloves_Wool_Grey"
+        },
+        "nominal": "4",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Fingerless_Gloves_Wool_Black"
+        },
+        "nominal": "4",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Military_Sweater"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Military_Sweater_Red"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Military_Sweater_Blue"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Military_Sweater_Green"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Military_Sweater_Black"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Military_Sweater_White"
+        },
+        "nominal": "1",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "High_Knee_Sneakers"
+        },
+        "nominal": "3",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "High_Knee_Sneakers_Black"
+        },
+        "nominal": "3",
+        "lifetime": "5600",
+        "restock": "10800",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shemagh_Brown"
+        },
+        "nominal": "1",
+        "lifetime": "7200",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shemagh_Green"
+        },
+        "nominal": "1",
+        "lifetime": "7200",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shemagh_Red"
+        },
+        "nominal": "1",
+        "lifetime": "7200",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shemagh_White"
+        },
+        "nominal": "1",
+        "lifetime": "7200",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shemagh_Black"
+        },
+        "nominal": "1",
+        "lifetime": "7200",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Layered_Shirt_Base"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Layered_Shirt_White"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Layered_Shirt_Cheburashka"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Layered_Shirt_Courage"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Layered_Shirt_Lily"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_Base"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_Black"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_White"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_Red"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_Blue"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Canvas_Backpack_Purple"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Golden_Winged_Pin"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Button_Pin_Radioactive"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Button_Pin_Daisy"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Sheriff_Badge"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Ragged_Eyepatch"
+        },
+        "nominal": "0",
+        "lifetime": "172800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "0",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Kneepads_Jeans_Base"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Kneepads_Jeans_Black"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Winter_Parka_Base"
+        },
+        "nominal": "1",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Winter_Parka_White"
+        },
+        "nominal": "1",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Winter_Parka_Green"
+        },
+        "nominal": "1",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Medium_Sleeves_Shirt"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Village"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Medium_Sleeves_Shirt_Red"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Village"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Medium_Sleeves_Shirt_Blue"
+        },
+        "nominal": "4",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Village"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "FlipFlops_Colorbase"
+        },
+        "nominal": "5",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "HumanSkull"
+        },
+        "nominal": "0",
+        "lifetime": "172800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "0",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "SkullMask"
+        },
+        "nominal": "0",
+        "lifetime": "172800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "0",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Slouch_Hat_Brown"
+        },
+        "nominal": "10",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Eyepatch"
+        },
+        "nominal": "5",
+        "lifetime": "14400",
+        "restock": "0",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "SK8_Sneakers_Black"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "SK8_Sneakers_FullBlack"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "SK8_Sneakers_Blue"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Round_Glasses"
+        },
+        "nominal": "15",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "10",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Round_Glasses_Black"
+        },
+        "nominal": "15",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "10",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Skinny_Jeans_Black"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Skinny_Jeans_Blue"
+        },
+        "nominal": "3",
+        "lifetime": "21600",
+        "restock": "7200",
+        "min": "3",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Tactical_Leg_Holster_Black"
+        },
+        "nominal": "5",
+        "lifetime": "7200",
+        "restock": "10800",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Scarf_Brown"
+        },
+        "nominal": "1",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Scarf_ColorPalette1"
+        },
+        "nominal": "1",
+        "lifetime": "21600",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Military"
+            }
+          },
+          {
+            "$": {
+              "name": "Alien"
+            }
+          },
+          {
+            "$": {
+              "name": "Police"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Firefighter"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          },
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Coast"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Office"
+            }
+          },
+          {
+            "$": {
+              "name": "School"
+            }
+          },
+          {
+            "$": {
+              "name": "Prison"
+            }
+          },
+          {
+            "$": {
+              "name": "Lunapark"
+            }
+          },
+          {
+            "$": {
+              "name": "SeasonalEvent"
+            }
+          },
+          {
+            "$": {
+              "name": "ContaminatedArea"
+            }
+          },
+          {
+            "$": {
+              "name": "Historical"
+            }
+          },
+          {
+            "$": {
+              "name": "Underground"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Scarf_Blue"
+        },
+        "nominal": "5",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ],
+        "value": [
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier4"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Wool_GreatCoat_Navy"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ],
+        "value": [
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier4"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Wool_GreatCoat_Olive"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ],
+        "value": [
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier4"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Wool_GreatCoat_Grey"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ],
+        "value": [
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier4"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Plague_Mask"
+        },
+        "nominal": "2",
+        "lifetime": "21600",
+        "restock": "0",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ],
+        "value": [
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier4"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Leather_Cloak_down"
+        },
+        "nominal": "0",
+        "lifetime": "172800",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "0",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Kirza_Boots"
+        },
+        "nominal": "4",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "floor"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Defender_Vest_Classic"
+        },
+        "nominal": "5",
+        "lifetime": "14400",
+        "restock": "7200",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Police"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Defender_Vest_Black"
+        },
+        "nominal": "5",
+        "lifetime": "14400",
+        "restock": "7200",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Police"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Defender_Vest_Green"
+        },
+        "nominal": "5",
+        "lifetime": "14400",
+        "restock": "7200",
+        "min": "5",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Police"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Galife_Pants_Olive"
+        },
+        "nominal": "4",
+        "lifetime": "28800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Galife_Pants_Navy"
+        },
+        "nominal": "4",
+        "lifetime": "28800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Legging_Shorts_Black"
+        },
+        "nominal": "4",
+        "lifetime": "2700",
+        "restock": "7200",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Grey"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Black"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Blue"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Brown"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Green"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Red"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Shabby_Hoodie_Calligraphy"
+        },
+        "nominal": "2",
+        "lifetime": "2700",
+        "restock": "10800",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Town"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Trapper_Hat_Black"
+        },
+        "nominal": "1",
+        "lifetime": "2700",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Trapper_Hat_Red_Checkered"
+        },
+        "nominal": "1",
+        "lifetime": "2700",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Trapper_Hat_Camo_Mossy_Oak"
+        },
+        "nominal": "1",
+        "lifetime": "2700",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "clothes"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

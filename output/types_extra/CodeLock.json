@@ -1,0 +1,43 @@
+{
+  "types": {
+    "type": {
+      "$": {
+        "name": "CodeLock"
+      },
+      "nominal": "20",
+      "lifetime": "7200",
+      "restock": "0",
+      "min": "15",
+      "quantmin": "-1",
+      "quantmax": "-1",
+      "cost": "100",
+      "flags": {
+        "$": {
+          "count_in_cargo": "0",
+          "count_in_hoarder": "0",
+          "count_in_map": "1",
+          "count_in_player": "0",
+          "crafted": "0",
+          "deloot": "0"
+        }
+      },
+      "category": {
+        "$": {
+          "name": "tools"
+        }
+      },
+      "usage": [
+        {
+          "$": {
+            "name": "Industrial"
+          }
+        },
+        {
+          "$": {
+            "name": "Farm"
+          }
+        }
+      ]
+    }
+  }
+}

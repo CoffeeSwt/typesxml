@@ -1,0 +1,350 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "ZenSleepingBag_Black"
+        },
+        "nominal": "4",
+        "lifetime": "604800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "ZenSleepingBag_Blue"
+        },
+        "nominal": "4",
+        "lifetime": "604800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "ZenSleepingBag_Green"
+        },
+        "nominal": "4",
+        "lifetime": "604800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "ZenSleepingBag_Grey"
+        },
+        "nominal": "4",
+        "lifetime": "604800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "ZenSleepingBag_Red"
+        },
+        "nominal": "4",
+        "lifetime": "604800",
+        "restock": "10800",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Industrial"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "ZenSleep_Anesthetic"
+        },
+        "nominal": "8",
+        "lifetime": "28800",
+        "restock": "10800",
+        "min": "8",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "ZenSleep_Amphetamine"
+        },
+        "nominal": "8",
+        "lifetime": "28800",
+        "restock": "10800",
+        "min": "8",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      }
+    ]
+  }
+}

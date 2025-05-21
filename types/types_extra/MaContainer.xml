@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+  <type name="maCB_Spraycan_Green">            
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="maCB_Spraycan_Red">            
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="maCB_Spraycan_Blue">            
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="maCB_Spraycan_Yellow">            
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="maCB_Spraycan_Purple">         <!-- NEW COLOR -->
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="maCB_Spraycan_Camo">            
+    <nominal>0</nominal>
+    <lifetime>10800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  
+  <type name="maCB_Blueprint">      <!-- SPAWN ON MAP AND/OR OFFER IT AT THE TRADER. YOUR CHOICE -->   
+    <nominal>0</nominal>            
+    <lifetime>10800</lifetime>
+    <restock>0</restock>            
+    <min>0</min>                    
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+
+  <type name="maCB_AdminKeycard">   <!-- DO NOT SPAWN ON MAP OBVIOUSLY-->         
+    <lifetime>60</lifetime>         <!-- SHORT LIFETIME IF DROPPED ON THE FLOOR --> 
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="maCB_Keycard">        <!-- DO NOT SPAWN ON MAP, DO NOT OFFER AT TRADER -->    
+    <lifetime>10800</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  
+  <type name="maCB_Kit">            
+    <lifetime>10800</lifetime>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="maCB_Base">         
+    <lifetime>3888000</lifetime>    <!-- IMPORTANT FOR CONTAINER LIFETIME // DO NOT CHANGE THIS VALUE -->   
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+
+</types>

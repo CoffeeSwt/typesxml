@@ -1,0 +1,424 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "InediaPain_FirstAidKit_White"
+        },
+        "nominal": "4",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Military"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "InediaPain_FirstAidKit_Black"
+        },
+        "nominal": "4",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "4",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Medic"
+            }
+          },
+          {
+            "$": {
+              "name": "Military"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "InediaPain_FirstAidCase_White"
+        },
+        "nominal": "1",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_FirstAidCase_Black"
+        },
+        "nominal": "1",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "1",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "containers"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Military"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_Tramadol"
+        },
+        "nominal": "20",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "20",
+        "quantmin": "100",
+        "quantmax": "100",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_Vikasol"
+        },
+        "nominal": "10",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "10",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_Calcium"
+        },
+        "nominal": "10",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "10",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_Sorbifer"
+        },
+        "nominal": "10",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "10",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_Metoclopramide"
+        },
+        "nominal": "10",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "10",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_SurgicalKit"
+        },
+        "nominal": "5",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "5",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_SplintKit"
+        },
+        "nominal": "2",
+        "lifetime": "14400",
+        "restock": "21600",
+        "min": "2",
+        "quantmin": "10",
+        "quantmax": "30",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "InediaPain_HemostaticDressing"
+        },
+        "nominal": "20",
+        "lifetime": "14400",
+        "restock": "10800",
+        "min": "20",
+        "quantmin": "100",
+        "quantmax": "100",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      }
+    ]
+  }
+}

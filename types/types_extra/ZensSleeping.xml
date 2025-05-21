@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="ZenSleepingBag_Black">
+        <nominal>4</nominal>
+        <lifetime>604800</lifetime>
+        <restock>10800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="ZenSleepingBag_Blue">
+        <nominal>4</nominal>
+        <lifetime>604800</lifetime>
+        <restock>10800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="ZenSleepingBag_Green">
+        <nominal>4</nominal>
+        <lifetime>604800</lifetime>
+        <restock>10800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="ZenSleepingBag_Grey">
+        <nominal>4</nominal>
+        <lifetime>604800</lifetime>
+        <restock>10800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="ZenSleepingBag_Red">
+        <nominal>4</nominal>
+        <lifetime>604800</lifetime>
+        <restock>10800</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="ZenSleep_Anesthetic">
+        <nominal>8</nominal>
+        <lifetime>28800</lifetime>
+        <restock>10800</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="ZenSleep_Amphetamine">
+        <nominal>8</nominal>
+        <lifetime>28800</lifetime>
+        <restock>10800</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+    </type>
+</types>

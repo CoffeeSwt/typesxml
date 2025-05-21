@@ -1,0 +1,104 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "seis_leatherquiver02_left"
+        },
+        "nominal": "1",
+        "lifetime": "3600",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "seis_leatherquiver01_left"
+        },
+        "nominal": "1",
+        "lifetime": "3600",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "usage": [
+          {
+            "$": {
+              "name": "Farm"
+            }
+          },
+          {
+            "$": {
+              "name": "Town"
+            }
+          },
+          {
+            "$": {
+              "name": "Village"
+            }
+          },
+          {
+            "$": {
+              "name": "Hunting"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

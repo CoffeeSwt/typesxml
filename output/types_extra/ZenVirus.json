@@ -1,0 +1,338 @@
+{
+  "types": {
+    "type": [
+      {
+        "$": {
+          "name": "Zen_Virus_Cure_Injector"
+        },
+        "nominal": "4",
+        "lifetime": "14400",
+        "restock": "0",
+        "min": "2",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "ContaminatedArea"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_AntiBodiesVial"
+        },
+        "nominal": "1",
+        "lifetime": "14400",
+        "restock": "0",
+        "min": "0",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Cure_Petridish"
+        },
+        "nominal": "12",
+        "lifetime": "14400",
+        "restock": "0",
+        "min": "6",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        },
+        "value": [
+          {
+            "$": {
+              "name": "Tier1"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Cure_Microscope"
+        },
+        "nominal": "12",
+        "lifetime": "86400",
+        "restock": "0",
+        "min": "6",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        },
+        "value": [
+          {
+            "$": {
+              "name": "Tier1"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Cure_Microscope_Static"
+        },
+        "lifetime": "9999999",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Syringe"
+        },
+        "nominal": "18",
+        "lifetime": "14400",
+        "restock": "0",
+        "min": "8",
+        "quantmin": "-1",
+        "quantmax": "-1",
+        "cost": "100",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "0",
+            "deloot": "0"
+          }
+        },
+        "category": {
+          "$": {
+            "name": "tools"
+          }
+        },
+        "tag": {
+          "$": {
+            "name": "shelves"
+          }
+        },
+        "usage": {
+          "$": {
+            "name": "Medic"
+          }
+        },
+        "value": [
+          {
+            "$": {
+              "name": "Tier1"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier2"
+            }
+          },
+          {
+            "$": {
+              "name": "Tier3"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Injector"
+        },
+        "lifetime": "14400",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Injector_Empty"
+        },
+        "lifetime": "7200",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Cure_Injector_Empty"
+        },
+        "lifetime": "7200",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_Brain"
+        },
+        "lifetime": "14400",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      },
+      {
+        "$": {
+          "name": "Zen_Virus_PathogenVial"
+        },
+        "lifetime": "14400",
+        "flags": {
+          "$": {
+            "count_in_cargo": "0",
+            "count_in_hoarder": "0",
+            "count_in_map": "1",
+            "count_in_player": "0",
+            "crafted": "1",
+            "deloot": "0"
+          }
+        }
+      }
+    ]
+  }
+}
